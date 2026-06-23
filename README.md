@@ -7,3 +7,4 @@ can insert debug test ship into the map
 
 
 service isnt the most reliable to check if aisstream is up.
+https://aisuptime.buttermilkgreen.fyi/
